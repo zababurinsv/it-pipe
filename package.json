@@ -1,5 +1,5 @@
 {
-  "name": "it-pipe",
+  "name": "@orbit/pipe",
   "version": "1.1.0",
   "description": "Utility to \"pipe\" async iterables together",
   "main": "index.js",
